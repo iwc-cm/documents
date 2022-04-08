@@ -10,6 +10,7 @@ Welcome to documents's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   ./daily/index.rst
 
 
 Indices and tables
